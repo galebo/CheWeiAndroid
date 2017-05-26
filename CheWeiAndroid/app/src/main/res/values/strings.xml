@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">车库信息查询</string>
-    <string name="app_query">查询</string>
-    <string name="app_clear">清空</string>
-    <string name="app_version">版本1.0</string>
-    <string name="app_number">车牌号：</string>
-    <string name="app_desc">支持模糊查询</string>
-</resources>
